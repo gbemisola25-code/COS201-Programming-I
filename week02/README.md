@@ -1,8 +1,8 @@
 # COS201 - Computer Programming I
 ## Student Information
-- Name: Mbanugo Ugochukwu Franklyn
-- Matriculation Number: 25/17996
-- Department: Computer Science
+- Name: Sobulo Serah Gbemi
+- Matric Number: 25/16411
+- Programme: Computer Science
 - Course: COS 201
 - Week: 2
 
